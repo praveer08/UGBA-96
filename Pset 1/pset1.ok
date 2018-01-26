@@ -1,5 +1,5 @@
 {
-  "name": "Homework 1: Causality and Expressions",
+  "name": “pset1”,
   "endpoint": "cal/ugba96/sp18/pset1",
   "src": [
     “pset1.ipynb"
