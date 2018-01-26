@@ -5,7 +5,9 @@ test = {
     {
       'cases': [
         {
-          'code': r"""                         
+          'code': r"""
+          >>> x                          # change this line
+          91                             # change this line
           """,
           'hidden': False,
           'locked': False
