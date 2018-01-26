@@ -2,7 +2,7 @@
   "name": "Pset 1",
   "endpoint": "cal/ugba96/sp18/pset1",
   "src": [
-    “pset1.ipynb"
+    "pset1.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
