@@ -2,7 +2,7 @@
   "name": "Lab 1",
   "endpoint": "cal/ugba96/sp18/lab1",
   "src": [
-    “lab1.ipynb"
+    "lab1.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
